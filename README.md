@@ -4,6 +4,7 @@
   * [design-hashset](https://leetcode.com/problems/design-hashset) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/design-hashset.go)
   * [palindrome-number](https://leetcode.com/problems/palindrome-number) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/palindrome-number.go)
   * [implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/implement-stack-using-queues.go)
+  * [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/number-of-1-bits.go)
 * [medium](https://github.com/plzprayme/algorithm-study/tree/master/leetcode/medium)
   * [flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/flatten-nested-list-iterator.java)
   * [deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/deepest-leaves-sum.go)

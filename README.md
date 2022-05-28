@@ -1,5 +1,6 @@
 # [leetcode](https://leetcode.com/)
 * [easy](https://github.com/plzprayme/algorithm-study/tree/master/leetcode/easy)
+  * [missing-number](https://leetcode.com/problems/missing-number) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/missing-number.go)
   * [shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/shortest-unsorted-continuous-subarray.go)
   * [design-hashset](https://leetcode.com/problems/design-hashset) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/design-hashset.go)
   * [number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/easy/number-of-steps-to-reduce-a-number-to-zero.go)

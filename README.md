@@ -1,6 +1,7 @@
 # [leetcode](https://leetcode.com/)
 * [medium](https://github.com/plzprayme/algorithm-study/tree/master/leetcode/medium)
   * [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/zigzag-conversion.java)
+  * [triangle](https://leetcode.com/problems/triangle) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/triangle.go)
   * [combination-sum-iii](https://leetcode.com/problems/combination-sum-iii) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/combination-sum-iii.java)
   * [deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/deepest-leaves-sum.go)
   * [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - [풀이보기](https://github.com/plzprayme/algorithm-study/blob/master/leetcode/medium/letter-combinations-of-a-phone-number.java)
